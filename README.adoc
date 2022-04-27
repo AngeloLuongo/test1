@@ -15,11 +15,11 @@ images. The branches of this repository correspond to versions of the s2i-dotnet
 $ oc new-project mydemo
 
 # Add the .NET Core application
-$ oc new-app dotnet:6.0-ubi8~https://github.com/redhat-developer/s2i-dotnetcore-ex#dotnet-6.0 --context-dir app
+$ oc new-app dotnet:6.0-ubi8~https://github.com/AngeloLuongo/test1#main --context-dir app
 
 # Make the .NET Core application accessible externally and show the url
-$ oc expose service s2i-dotnetcore-ex
-$ oc get route s2i-dotnetcore-ex
+$ oc expose service test1
+$ oc get route test1
 ----
 
 == Deploy using the OpenShift Do ('odo')
