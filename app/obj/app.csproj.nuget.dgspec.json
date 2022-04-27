@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\langeloa\\Documents\\Progetti\\s2i-dotnetcore-ex-dotnet-6.0\\app\\app.csproj": {}
+    "C:\\Users\\langeloa\\Documents\\Progetti\\GIT\\s2i-dotnetcore-ex-dotnet-6.0\\test1\\app\\app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\langeloa\\Documents\\Progetti\\s2i-dotnetcore-ex-dotnet-6.0\\app\\app.csproj": {
+    "C:\\Users\\langeloa\\Documents\\Progetti\\GIT\\s2i-dotnetcore-ex-dotnet-6.0\\test1\\app\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\langeloa\\Documents\\Progetti\\s2i-dotnetcore-ex-dotnet-6.0\\app\\app.csproj",
+        "projectUniqueName": "C:\\Users\\langeloa\\Documents\\Progetti\\GIT\\s2i-dotnetcore-ex-dotnet-6.0\\test1\\app\\app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\Users\\langeloa\\Documents\\Progetti\\s2i-dotnetcore-ex-dotnet-6.0\\app\\app.csproj",
+        "projectPath": "C:\\Users\\langeloa\\Documents\\Progetti\\GIT\\s2i-dotnetcore-ex-dotnet-6.0\\test1\\app\\app.csproj",
         "packagesPath": "C:\\Users\\langeloa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\langeloa\\Documents\\Progetti\\s2i-dotnetcore-ex-dotnet-6.0\\app\\obj\\",
+        "outputPath": "C:\\Users\\langeloa\\Documents\\Progetti\\GIT\\s2i-dotnetcore-ex-dotnet-6.0\\test1\\app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\langeloa\\AppData\\Roaming\\NuGet\\NuGet.Config",
